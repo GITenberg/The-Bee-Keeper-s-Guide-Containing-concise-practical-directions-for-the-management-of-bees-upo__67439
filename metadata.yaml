@@ -1,11 +1,16 @@
 _repo: The-Bee-Keeper-s-Guide-Containing-concise-practical-directions-for-the-management-of-bees-upo__67439
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67439-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Payne, J. H.
     gutenberg_agent_id: '54273'
     url: http://www.gutenberg.org/2009/agents/54273
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67439#The-Bee-Keeper-s-Guide-Containing-concise-practical-directions-for-the-management-of-bees-upo_
 gutenberg_issued: '2022-02-19'
 identifiers:
   gutenberg: '67439'
